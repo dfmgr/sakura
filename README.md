@@ -5,7 +5,7 @@ terminal emulator based just on GTK and VTE
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/sakura/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/sakura/raw/main/install.sh)"
 ```
 
 Manual install:
